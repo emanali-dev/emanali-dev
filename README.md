@@ -65,5 +65,3 @@ Explainable AI (SHAP), PyTorch, medical image classification, GPU inference opti
 </p>
 
 ---
-
-<p align="center"><i>Open to remote internships in AI / ML. Let's connect.</i></p>
